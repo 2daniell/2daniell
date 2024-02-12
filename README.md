@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=2daniell&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="500" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2daniell&theme=midnight-purple&hide_border=true" width="510" />
+    <img src="https://github-readme-stats.vercel.app/api?username=2daniell&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2daniell&theme=midnight-purple&hide_border=true" width="410" />
 </div>
 
 ##
