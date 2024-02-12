@@ -1,5 +1,2 @@
-<div>
-<a href="https://beacons.ai/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2daniell&show_icons-tritheme-draculašinclude_all_commits-true&count_private-true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2daniell&layout-compact@langs_count=16&theme-dracula"/>
-</div>
+![2daniell's Stats](https://github-readme-stats.vercel.app/api?username=2daniell&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![2daniell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2daniell&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
