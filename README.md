@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/2Daniell">
-    <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,mysql,postgresql,git"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,mysql,postgresql,git"/>
   </a>
 </p>
 
